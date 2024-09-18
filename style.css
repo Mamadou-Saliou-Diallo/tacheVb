@@ -13,6 +13,10 @@ body{
     background-color: #000 !important;
 }
 
+#menu11:hover{
+    text-decoration: underline #FFC107;
+}
+
 .bg-btn-footer{
     background: #408984;
 }
@@ -299,7 +303,7 @@ body{
     background: #c4c5c5;
     width: 10%;
     height: 6vh;
-    border-radius: 50%;
+    border-radius: 55%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -318,10 +322,7 @@ body{
    opacity: 0.6;
 }
 
-/* Shop page */
-/* ========== */
 
-/* section1 */
 #sect1_shop{
     height: 50vh;
 }
